@@ -33,7 +33,7 @@
 
 <img align="right" width="280" src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-3486129-2918800.png" alt="Desenvolvimento Web" />
 
-Busco uma oportunidade de Estágio em Desenvolvimento de Sistemas em Americana/SP e região ou de forma remota. 
+Busco uma oportunidade de Estágio em **Desenvolvimento de Sistemas** em Americana/SP e região ou de forma remota. 
 
 Atualmente, curso o 2º ano do Ensino Médio no **SESI** e o curso Técnico em Desenvolvimento de Sistemas no **SENAI Americana** (com previsão de conclusão em 2027). Meu objetivo é adquirir experiência prática, aplicar minha base lógica e evoluir profissionalmente na área de tecnologia.
 
