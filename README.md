@@ -31,17 +31,13 @@
 
 ## 👨‍💻 Sobre Mim
 
-<img align="right" width="280" src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-3486129-2918800.png" alt="Desenvolvimento Web" />
-
-Busco uma oportunidade de Estágio em **Desenvolvimento de Sistemas** em Americana/SP e região ou de forma remota. 
+Busco uma oportunidade de **Estágio em Desenvolvimento de Sistemas** em Americana/SP e região ou de forma remota. 
 
 Atualmente, curso o 2º ano do Ensino Médio no **SESI** e o curso Técnico em Desenvolvimento de Sistemas no **SENAI Americana** (com previsão de conclusão em 2027). Meu objetivo é adquirir experiência prática, aplicar minha base lógica e evoluir profissionalmente na área de tecnologia.
 
-- 🎓 **Formação em Andamento:** Técnico em Desenvolvimento de Sistemas (SENAI) & Ensino Médio (SESI)
-- 🎯 **Foco de Carreira:** Estágio em Desenvolvimento de Software (Web & Backend)
-- 💡 **Experiência Prática:** Possuo histórico profissional em atendimento, agilidade, trabalho em equipe e organização (Supermercados São Vicente).
-
-<br clear="right"/>
+* 🎓 **Formação em Andamento:** Técnico em Desenvolvimento de Sistemas (SENAI) & Ensino Médio (SESI)
+* 🎯 **Foco de Carreira:** Estágio em Desenvolvimento de Software (Web & Backend)
+* 💡 **Experiência Prática:** Possuo histórico profissional focado em atendimento, agilidade, trabalho em equipe e organização.
 
 ---
 
@@ -70,9 +66,9 @@ Atualmente, curso o 2º ano do Ensino Médio no **SESI** e o curso Técnico em D
 
 ## 📜 Cursos Complementares
 
-- 🤖 **Fluência:** Fundamentos da Inteligência Artificial
-- ⚖️ **Ética na Inteligência Artificial**
-- 🛡️ **Por Dentro da Segurança Cibernética**
+* 🤖 **Fluência:** Fundamentos da Inteligência Artificial
+* ⚖️ **Ética na Inteligência Artificial**
+* 🛡️ **Por Dentro da Segurança Cibernética**
 
 ---
 
@@ -129,10 +125,10 @@ Atualmente, curso o 2º ano do Ensino Médio no **SESI** e o curso Técnico em D
 
 ## ✉️ Contato & Informações
 
-- 📧 **E-mail:** [Caio.marcellino11@gmail.com](mailto:Caio.marcellino11@gmail.com)
-- 📱 **Telefone / WhatsApp:** (19) 98607-4046
-- 📍 **Localização:** Americana - SP
-- 🐙 **GitHub:** [github.com/caiomarcellino11](https://github.com/caiomarcellino11)
+* 📧 **E-mail:** [Caio.marcellino11@gmail.com](mailto:Caio.marcellino11@gmail.com)
+* 📱 **Telefone / WhatsApp:** (19) 98607-4046
+* 📍 **Localização:** Americana - SP
+* 🐙 **GitHub:** [github.com/caiomarcellino11](https://github.com/caiomarcellino11)
 
 ---
 
