@@ -133,5 +133,5 @@ Atualmente, curso o 2º ano do Ensino Médio no **SESI** e o curso Técnico em D
 ---
 
 <div align="center">
-  <p><i>"Estudando, praticando e evoluindo a cada código."</i></p>
+  <p><i>"O fracasso impulsiona a evolução. Cada erro traz um aprendizado e cada aprendizado nos aproxima de algo maior."</i></p>
 </div>
