@@ -107,7 +107,7 @@ Atualmente, curso o 2º ano do Ensino Médio no **SESI** e o curso Técnico em D
       </p>
       <p align="center">Exercícios práticos de desenvolvimento Web com foco em estruturação semântica e estilização de páginas.</p>
       <p align="center">
-        <a href="https://github.com/caiomarcellino11/Lima_HTML"><b> Ver Repositório »</b></a>
+        <a href="https://github.com/caiomarcellino11/conteudos-lima"><b> Ver Repositório »</b></a>
       </p>
     </td>
   </tr>
