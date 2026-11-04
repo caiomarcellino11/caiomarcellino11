@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Estudante+de+Desenvolvimento+de+Sistemas;Em+busca+de+Est%C3%A1gio+em+TI;Praticando+PHP%2C+Node.js%2C+SQL+%26+NoSQL;APIs+REST+e+Bancos+de+Dados)](https://git.io/typing-svg)
 
-### 🚀 Disponível para estágio em Back-End | PHP · Node.js · SQL · MongoDB
+### 🚀 Disponível para estágio em Back-End
 
 📍 **Americana - SP** | 🎓 **Técnico em Desenvolvimento de Sistemas — SENAI (conclusão prevista: 2027)**
 
@@ -19,47 +19,155 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 Sobre mim
 
-Sou estudante de **Desenvolvimento de Sistemas** no **SENAI Americana** (conclusão prevista para **2027**) e busco minha **primeira oportunidade de estágio em TI**, em Americana/SP e região ou de forma remota.
+<table>
+<tr>
+<td width="65%">
 
-Tenho interesse em **desenvolvimento Back-End e Web** e aprendo na prática, construindo projetos: **APIs REST** em **PHP** e **Node.js**, integração com bancos **relacionais (PostgreSQL)** e **NoSQL (MongoDB)**, validação de dados e documentação do que desenvolvo.
+🎓 Estudante de **Desenvolvimento de Sistemas** no **SENAI Americana** (conclusão prevista: **2027**)
 
-- 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas — SENAI Americana (previsão: 2027)
-- 🎯 **Foco:** Estágio em Desenvolvimento de Software (Back-End e Web)
-- 🧪 **Na prática:** APIs REST com CRUD, PDO e *prepared statements*, JSON, consultas SQL e documentação de projetos
-- 💼 **Vivência anterior:** atendimento, agilidade, trabalho em equipe e organização
-- 🌱 **Próximos passos de estudo:** validação de dados mais completa, tratamento de erros com códigos HTTP adequados e autenticação
+🎯 Busco minha **primeira oportunidade de estágio em TI**, em Americana/SP e região ou remoto
+
+⚙️ Interesse em **Back-End e desenvolvimento Web**
+
+🧪 Aprendo construindo: **APIs REST** em **PHP** e **Node.js**, com bancos **PostgreSQL** e **MongoDB**
+
+💼 Vivência anterior em atendimento, agilidade, trabalho em equipe e organização
+
+🌱 Próximos passos: validação de dados mais completa, tratamento de erros com códigos HTTP e autenticação
+
+</td>
+
+<td width="35%" align="center">
+
+### ⚡ Áreas
+
+`Back-End`
+
+`APIs REST`
+
+`Bancos de Dados`
+
+`PHP`
+
+`Node.js`
+
+`SQL`
+
+`NoSQL`
+
+</td>
+</tr>
+</table>
 
 ---
 
+<div align="center">
+
 ## 🛠️ Tecnologias
 
-### 📚 Linguagens
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4A4A55?style=for-the-badge)
+### 💻 Linguagens
+
+<img src="https://skillicons.dev/icons?i=php,js" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-4A4A55?style=for-the-badge" />
+
+<br><br>
 
 ### ⚙️ Back-End e APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PDO](https://img.shields.io/badge/PDO-777BB4?style=for-the-badge)
-![REST](https://img.shields.io/badge/API_REST-0A66C2?style=for-the-badge)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PDO-777BB4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/API_REST-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+
+<br><br>
 
 ### 🗄️ Bancos de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+
+<br><br>
 
 ### 🎨 Front-End *(estudos iniciais)*
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+<br><br>
 
 ### 🧰 Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Thunder Client](https://img.shields.io/badge/Thunder_Client-5A4FCF?style=for-the-badge)
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Thunder_Client-5A4FCF?style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧠 O que eu pratico
+
+</div>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🔌 APIs REST
+
+CRUD  
+Métodos HTTP  
+JSON  
+Códigos de status
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️ Back-End
+
+PHP  
+Node.js  
+Express  
+PDO
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️ Bancos de Dados
+
+PostgreSQL  
+MongoDB  
+Modelagem  
+Consultas SQL
+
+</td>
+
+<td align="center" width="25%">
+
+### 📝 Boas práticas
+
+*Prepared statements*  
+Validação de dados  
+Credenciais fora do GitHub  
+Documentação
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -69,10 +177,11 @@ Tenho interesse em **desenvolvimento Back-End e Web** e aprendo na prática, con
 
 ### 1. 🍃 API de Produtos — Node.js, Express e MongoDB
 
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
 API REST para gerenciar os produtos de uma loja, com CRUD completo sobre um banco NoSQL.
 
 - **Funcionalidades:** cadastro, listagem, busca por ID, atualização parcial e exclusão de produtos (`POST`, `GET`, `GET /:id`, `PUT /:id` e `DELETE /:id` em `/produtos`), com dados na coleção `produtos` do banco `loja`.
-- **Tecnologias:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 - **Demonstra:** API REST com Express, driver oficial do MongoDB, `ObjectId`, `async/await`, string de conexão em variável de ambiente (`MONGO_URI`), atualização com `$set` e documentação completa com exemplos e prints.
 
 [🔗 Ver repositório »](https://github.com/caiomarcellino11/api-mongo-node)
@@ -81,11 +190,12 @@ API REST para gerenciar os produtos de uma loja, com CRUD completo sobre um banc
 
 ### 2. 🛠️ API REST de Chamados de Manutenção — PHP e PDO
 
+<img src="https://skillicons.dev/icons?i=php" />
+
 API REST para centralizar os chamados de manutenção de equipamentos de uma empresa, antes informados por mensagens e anotações em papel.
 
 - **Funcionalidades:** registro, consulta, atualização e exclusão de chamados (`POST`, `GET`, `PUT` e `DELETE`), com validação dos valores permitidos de **prioridade** (`baixa`, `media`, `alta`) e **status** (`aberto`, `em andamento`, `concluido`).
-- **Tecnologias:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) · PDO com banco relacional
-- **Demonstra:** CRUD via métodos HTTP, *prepared statements*, leitura de JSON (`php://input`), validação de dados, credenciais fora do GitHub e testes com Thunder Client.
+- **Demonstra:** CRUD via métodos HTTP, PDO com banco relacional e *prepared statements*, leitura de JSON (`php://input`), validação de dados, credenciais fora do GitHub e testes com Thunder Client.
 
 [🔗 Ver repositório »](https://github.com/caiomarcellino11/API-REST-EMPRESA-CHAMADOS)
 
@@ -93,10 +203,11 @@ API REST para centralizar os chamados de manutenção de equipamentos de uma emp
 
 ### 3. 🎮 API de Catálogo de Games — Level Up Games
 
+<img src="https://skillicons.dev/icons?i=php,postgres" />
+
 API REST em PHP puro para unificar o catálogo e o estoque de uma loja fictícia que vende pelo site e pelo Instagram, evitando a venda de jogos esgotados.
 
-- **Tecnologias:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
-- **Demonstra:** tabela relacional, PDO com *prepared statements*, cadastro (`POST`) e listagem (`GET`) de jogos. Próximos passos: `PUT`, `DELETE` e validação.
+- **Demonstra:** tabela relacional em PostgreSQL, PDO com *prepared statements*, cadastro (`POST`) e listagem (`GET`) de jogos. Próximos passos: `PUT`, `DELETE` e validação.
 
 [🔗 Ver repositório »](https://github.com/caiomarcellino11/atividade_api_Level_Up_Games)
 
@@ -104,9 +215,10 @@ API REST em PHP puro para unificar o catálogo e o estoque de uma loja fictícia
 
 ### 4. 👥 CRM de Clientes em PHP — projeto em grupo
 
+<img src="https://skillicons.dev/icons?i=php,html" />
+
 Biblioteca de funções e tela de relatório para organizar o cadastro de clientes de uma empresa de serviços, com dados simulados em arrays (sem banco de dados).
 
-- **Tecnologias:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 - **Demonstra:** funções tipadas com `strict_types`, validação de CPF e e-mail, separação entre lógica e apresentação, levantamento de requisitos funcionais e não funcionais e plano de testes.
 - **Minha atuação:** analista, testador e documentador (Grupo 5).
 
@@ -124,6 +236,16 @@ Biblioteca de funções e tela de relatório para organizar o cadastro de client
 
 ---
 
+## 🚀 O que você encontra neste GitHub
+
+- 🔌 APIs REST em PHP e Node.js
+- 🗄️ Projetos com PostgreSQL e MongoDB
+- 🐘 Exercícios de PHP e SQL
+- 🌐 Estudos de HTML e CSS
+- 📝 Documentação dos projetos, com exemplos e testes
+
+---
+
 ## 📜 Cursos Complementares
 
 - 🤖 **Fluência:** Fundamentos da Inteligência Artificial
@@ -132,9 +254,9 @@ Biblioteca de funções e tela de relatório para organizar o cadastro de client
 
 ---
 
-## 📊 Atividade no GitHub
-
 <div align="center">
+
+## 📊 Atividade no GitHub
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caiomarcellino11&theme=tokyonight&hide_border=true)](https://github.com/caiomarcellino11)
 
