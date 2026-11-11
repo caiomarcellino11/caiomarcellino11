@@ -31,7 +31,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor, conquistar uma oportun
 **Aplicações, APIs e projetos desenvolvidos durante minha jornada na programação.**
 
 <a href="https://github.com/caiomarcellino11?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/Acessar_Projetos-4ade80?style=for-the-badge&color=00bfbf&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Acessar_Portf%C3%B3lio-00bfbf?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -44,7 +44,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor, conquistar uma oportun
 
 <p>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" /></a>
-  <a href="mailto:caio.marcellino11@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&to=caio.marcellino11@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail" /></a>
   <a href="https://github.com/caiomarcellino11" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" /></a>
 </p>
 
