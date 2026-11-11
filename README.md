@@ -44,7 +44,8 @@ Meu objetivo é evoluir continuamente como desenvolvedor, conquistar uma oportun
 
 <p>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" /></a>
-  <a href="mailto:SEU_EMAIL_AQUI"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail" /></a>
+  <a href="mailto:caio.marcellino11@gmail.com
+"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail" /></a>
   <a href="https://github.com/caiomarcellino11" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" /></a>
 </p>
 
