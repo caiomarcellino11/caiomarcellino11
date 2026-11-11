@@ -246,7 +246,7 @@ Estou aberto a oportunidades de estágio, networking e troca de conhecimentos na
 
 <br><br>
 
-**"Grandes soluções começam com pequenas linhas de código."**
+**"O fracasso impulsiona a evolução. Cada erro traz um aprendizado e cada aprendizado nos aproxima de algo maior"**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101B2B,50:164E78,100:36BCF7&height=120&section=footer" width="100%" />
 
